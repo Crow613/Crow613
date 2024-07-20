@@ -1,4 +1,4 @@
-Hi 👋 My name is Harut
+Hi 👋 I'm Harut Saghoyan
 ======================
 
 ### Skills
