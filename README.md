@@ -5,37 +5,22 @@
 
 <p align="start">
 🧠 Full-Stack разработчик, объединяющий Frontend, Backend и DevOps-подходы для создания надёжных и масштабируемых решений.
-
----
-
 ⚙️ Опыт работы с Bitrix24, включая использование Bitrix CLI, интеграции через REST API и webhook-и, а также оптимизацию корпоративных порталов.</br>
-
----
-
 🧩 Стек: PHP, Laravel, Bitrix24, JavaScript, Vue.js, Docker, MySQL, Linux, Git, CI/CD.</br>
-
----
-
 💡Люблю продумывать архитектуру, автоматизировать рутину и повышать производительность приложений следуя принципам чистой разработки. </br>
-
----
-
 🚀 Стремлюсь разрабатывать продукты, которые не просто работают, а развиваются и приносят реальную ценность бизнесу.
 </p>
 
 ---
-
 ### 🧠 Технологии
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,vue,react,vite,php,laravel,mysql,postgres,docker,git,linux,figma,bash&theme=dark" />
 </p>
 
 ---
-
 ### 🚀 Статистика GitHub
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Crow613&show_icons=true&theme=tokyonight&hide_border=true" />
-
 </p>
 
 <p align="center">
@@ -43,7 +28,6 @@
 </p>
 
 ---
-
 ### 📫 Связаться
 <p align="center" style="display:flex; gap:10px">
  <a href="https://www.instagram.com/_har_613_/" target="_blank" rel="noreferrer">
