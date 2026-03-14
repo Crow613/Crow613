@@ -2,6 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Harut+Saghoyan;Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
 </h1>
+
 ---
 ### 📫 Связаться
 <p align="center" style="display:flex; gap:10px">
@@ -15,6 +16,7 @@
    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
  </a>
 </p>
+
 ---
 <p align="start">
 🧠 Full-Stack разработчик, объединяющий Frontend, Backend и DevOps-подходы для создания надёжных и масштабируемых решений. </br>
